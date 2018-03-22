@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="action_settings">Settings</string>
+    <string name="make_choice">Make a choice</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="comp_chose">The computer chose:</string>
+    <string name="comp_choice">" "</string>
+    <string name="result">" "</string>
+    <string name="u_chose">You chose:</string>
+    <string name="u_choice">" "</string>
+    <string name="numWins">Number of Wins:</string>
+    <string name="numLosses">Number of Losses:</string>
+    <string name="wins">0</string>
+    <string name="losses">0</string>
+</resources>
